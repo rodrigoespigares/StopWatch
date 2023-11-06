@@ -1,4 +1,4 @@
-# TIMEKEEPER
+# STOPWATCH
 The best chronometer has arrived online
 ![imagen](https://github.com/rodrigoespigares/timekeeper/assets/94736646/3865bd59-1e2a-4cd4-929c-61af6aef1094)
 
