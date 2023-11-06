@@ -6,5 +6,5 @@ The best chronometer has arrived online
 In this repository I have learned to create DOM elements and use them. In addition to reviewing the events.
 
 ## Version
-V.1
+### V.1
 The stopwatch is operational and working correctly.
