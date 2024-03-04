@@ -3,8 +3,8 @@
   "short_name": "prueba",
   "theme_color": "#fff",
   "background_color": "#fff",
-  "display": "browser",
-  "orientation": "portrait",
+  "display": "minimal-ui",
+  "orientation": "any",
   "scope": "/",
   "start_url": "/",
   "icons": [
@@ -50,5 +50,6 @@
     }
   ],
   "description": "Esta es la descripcion",
-  "id": "prueba"
+  "id": "prueba",
+  "lang": "en"
 }
